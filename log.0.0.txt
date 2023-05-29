@@ -1,0 +1,4 @@
+��� 26, 2023 6:52:39 PM org.example.Sem_2.Task2 write
+INFO: Длина повторяемой строки = 400
+��� 26, 2023 6:52:39 PM org.example.Sem_2.Task2 write
+INFO: записано
